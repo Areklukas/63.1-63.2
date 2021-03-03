@@ -51,7 +51,7 @@ zadanie2();
 ODPOWIEDZI
  
 63.1:
-Poprawna odpowiedź (18 ciągów):
+18 ciągów:
 11
 101000101000
 10110001011000
